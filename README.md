@@ -12,10 +12,13 @@ Calculate the sum of all three subjects and check whether the sum is greater tha
 Calculate the sum of physics and maths and check the condition
 
 ### Step4:
+Calculate the sum of all three subjects and maths-physics total.
 
 ### Step5:
+Check for the given criteria for eligibility using if-else statements.
 
 ### Step6:
+Display whether the person is eligible for admission or not based on the given criteria.
 
 ## Program:
 ```
