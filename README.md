@@ -45,7 +45,7 @@ namespace Admission
 
             int totalMarks = maths + physics + chemistry;
 
-            if (maths >= 65 && physics >= 55 && chemistry >= 50)
+            if (maths >= 75 && physics >= 65 && chemistry >= 60)
             {
                 if (totalMarks >= 180)
                 {
@@ -63,7 +63,7 @@ namespace Admission
 }
 ```
 ## Output:
-
+![Screenshot 2024-02-22 103629](https://github.com/Vaishnavi-saravanan/Eligibility-for-Engineering-Admission/assets/118541897/dbf58ccd-d98d-42ad-9153-c7169cd232e3)
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed
